@@ -2,6 +2,14 @@
 
 This project is a Spring Boot application for an Indian Railway Ticket Booking System. It provides functionalities for searching trains and booking tickets, along with a simple web interface.
 
+Group member
+
+Sanchit Sanjay Kale
+
+Ajit Vitthal Wagh
+
+Piyush Dnyandev Revande
+
 ## Table of Contents
 
 *   [Features](#features)
