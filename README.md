@@ -78,8 +78,9 @@ These instructions will get you a copy of the project up and running on your loc
     ```bash
     ./mvnw clean install
     ```
-    (On Windows, use `mvnw.cmd clean install`)
-
+Sanchit Sanjay Kale📧 sanchitkale445@gmail.com
+                   📧  ajitwagh997@gmail.com
+                   📧 piyushrevande@gmail.com
 ### Running the Application
 
 You can run the Spring Boot application using Maven:
