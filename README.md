@@ -84,7 +84,7 @@ You can run the Spring Boot application using Maven:
 
 ```bash
 ./mvnw spring-boot:run
-Sanchit Sanjay Kale📧 sanchitkale445@gmail.com
-                   📧  ajitwagh997@gmail.com
-                   📧 piyushrevande@gmail.com
+Sanchit Sanjay Kale 📧  sanchitkale445@gmail.com
+                    📧  ajitwagh997@gmail.com
+                    📧  piyushrevande@gmail.com
 
